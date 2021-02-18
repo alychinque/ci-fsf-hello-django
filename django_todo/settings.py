@@ -26,7 +26,12 @@ SECRET_KEY = '=os$xvxmnd166ly61gn@)por21t0!js_qmxr^bh-zqe1#h0*&='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://alychinque-django-todo-app.herokuapp.com/', 
+'http://alychinque-django-todo-app.herokuapp.com/',
+'alychinque-django-todo-app.herokuapp.com/',
+'alychinque-django-todo-app.herokuapp.com',
+'127.0.0.1', 
+'0.0.0.0']
 
 
 # Application definition
