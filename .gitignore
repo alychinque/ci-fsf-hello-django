@@ -1,2 +1,7 @@
 __pycache__/
+<<<<<<< HEAD
 *.sqlite3
+=======
+*.py[cod]
+*sqlite3
+>>>>>>> 9439221234cb743751fa365e336aa3ba140d718a
